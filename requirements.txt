@@ -2,4 +2,5 @@ pandas
 mlflow
 yfinance
 keras
+tensorflow
 matplotlib
